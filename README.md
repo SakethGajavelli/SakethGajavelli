@@ -19,12 +19,8 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px">
   </a>
 </p>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sakethgajavelli.SakethGajavelli)
-
----
-
-### Hi, I'm Saketh 👋  
+  
 A Data Scientist Student 🚀 from Hyderabad, India.  
 
 > "Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-driven solutions, scalable models, and intelligent system deployment. Enthusiastic about AI, Data Science, and Model Deployment, driving innovation and impact."
