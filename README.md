@@ -31,7 +31,7 @@ A Data Scientist Student 🚀 from Hyderabad, India.
 
 🔗 **Check out my [Portfolio](https://sakethgajavelli.github.io/My-Portfolio)**  
 
-<img align="right" alt="GIF" src="https://github.com/SakethGajavelli/SakethGajavelli/blob/main/code.gif/desk.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/SakethGajavelli/SakethGajavelli/blob/main/code.gif/desk.gif?raw=true" width="300" height="320" />
 
 ## 📌 Talking about Personal Stuff:
 
