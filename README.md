@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Let’s Network
+### Let’s Network  
 
 [<img align="left" alt="sakethGajavelli | G Mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:sakethmunna220@gmail.com)
-[<img align="left" alt="sakethGajavelli | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">](https://www.instagram.com/saketh_007_) 
+[<img align="left" alt="sakethGajavelli | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">](https://www.instagram.com/saketh_007_)
 [<img align="left" alt="sakethGajavelli | Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/SakethMunna007/)
-[<img align="left" alt="sakethGajavelli | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/)
+[<img align="left" alt="sakethGajavelli | Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/)
 
 <br/>
 
@@ -14,11 +14,11 @@
 ---
 
 ### Hi, I'm Saketh 👋  
-A Data Scientist Student 🚀 from Hyderabad, India.
+A Data Scientist Student 🚀 from Hyderabad, India.  
 
 > "Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-driven solutions, scalable models, and intelligent system deployment. Enthusiastic about AI, Data Science, and Model Deployment, driving innovation and impact."
 
-🔗 **Check out my [Portfolio](https://sakethgajavelli.github.io/My-Portfolio)**
+🔗 **Check out my [Portfolio](https://sakethgajavelli.github.io/My-Portfolio)**  
 
 <img align="right" alt="GIF" src="https://github.com/SakethGajavelli/SakethGajavelli/blob/main/code.gif/desk.gif?raw=true" width="500" height="320" />
 
@@ -32,7 +32,6 @@ A Data Scientist Student 🚀 from Hyderabad, India.
 ---
 
 ## 🔧 Languages and Tools:
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -48,7 +47,7 @@ A Data Scientist Student 🚀 from Hyderabad, India.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
   
@@ -61,17 +60,3 @@ A Data Scientist Student 🚀 from Hyderabad, India.
 </table>
 
 </div>
-<!--
-**SakethGajavelli/SakethGajavelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
