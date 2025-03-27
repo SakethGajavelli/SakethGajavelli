@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px">
   </a>
-<br/>
+   </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sakethgajavelli.SakethGajavelli)
   
