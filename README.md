@@ -4,17 +4,21 @@
 
 <p align="left">
   <a href="mailto:sakethmunna220@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="22px">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="12px">
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/saketh_007_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="22px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="12px">
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/SakethMunna007/">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="22px">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="12px">
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="12px">
   </a>
+   </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sakethgajavelli.SakethGajavelli)
   
