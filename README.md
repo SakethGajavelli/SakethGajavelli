@@ -8,7 +8,7 @@
   </a>
   &nbsp;
 <a href="https://www.instagram.com/saketh_007_" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="22px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="22px">
 </a>
   &nbsp;
   <a href="https://www.facebook.com/SakethMunna007/">
