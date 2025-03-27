@@ -7,9 +7,9 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="22px">
   </a>
   &nbsp;
-<a href="https://www.instagram.com/saketh_007_" target="_blank">
+  <a href="https://www.instagram.com/saketh_007_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="22px">
-</a>
+  </a>
   &nbsp;
   <a href="https://www.facebook.com/SakethMunna007/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="22px">
@@ -19,6 +19,9 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px">
   </a>
 </p>
+
+<br/>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=sakethgajavelli.SakethGajavelli)
   
 A Data Scientist Student 🚀 from Hyderabad, India.  
@@ -27,7 +30,7 @@ A Data Scientist Student 🚀 from Hyderabad, India.
 
 🔗 **Check out my [Portfolio](https://sakethgajavelli.github.io/My-Portfolio)**  
 
-<img align="right" alt="GIF" src="https://github.com/SakethGajavelli/SakethGajavelli/blob/main/code.gif/desk.gif?raw=true" width="400" height="350" />
+<img align="right" alt="GIF" src="https://github.com/SakethGajavelli/SakethGajavelli/blob/main/code.gif?raw=true" width="400" height="350" />
 
 ## 📌 Talking about Personal Stuff:
 
