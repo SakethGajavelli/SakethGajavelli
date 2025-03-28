@@ -24,7 +24,7 @@
   
 Hi, I'm Saketh, a Data Scientist Student  🚀 from Hyderabad, India. 
 
-"Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-driven solutions, scalable models, and intelligent system deployment. Enthusiastic about AI, Data Science, and Model Deployment, driving innovation and impact.
+Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-driven solutions, scalable models, and intelligent system deployment. Enthusiastic about AI, Data Science, and Model Deployment, driving innovation and impact.
 
 🔗 **Check out my [Portfolio](https://sakethgajavelli.github.io/My-Portfolio)**  
 
