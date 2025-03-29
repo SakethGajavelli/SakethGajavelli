@@ -16,7 +16,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="32px" style="background-color: white; border-radius: 5px; padding: 3px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="90px">
   </a>
 </p>
 
