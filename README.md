@@ -15,10 +15,11 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="32px">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="32px">
+  <a href="https://www.linkedin.com/in/saketh-gajavelli-6aa55b303/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="32px" style="background-color: white; border-radius: 5px; padding: 3px;">
   </a>
-   </p>
+</p>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sakethgajavelli.SakethGajavelli)
   
