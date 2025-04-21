@@ -1,3 +1,7 @@
+[![GitHub](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://github.com/your-username)
+
+
+
 <a href="https://github.com/your-username" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="60" style="filter: drop-shadow(0 0 10px #ff0077);" />
 </a>
