@@ -1,4 +1,4 @@
-[![GitHub](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)](https://github.com/your-username)
+[![GitHub Float](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://github.com/your-username)
 
 
 <a href="https://github.com/your-username" target="_blank">
