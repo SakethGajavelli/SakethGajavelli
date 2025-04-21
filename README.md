@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=7f00ff)](https://github.com/your-username)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Click_Me!-black?style=for-the-badge&logo=github&logoColor=white&labelColor=ff004f)](https://github.com/your-username)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
