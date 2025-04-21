@@ -1,10 +1,5 @@
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" 
-       width="140" 
-       style="filter: drop-shadow(0px 0px 10px #ff0055); transition: transform 0.3s ease;" 
-       onmouseover="this.style.transform='scale(1.1)'" 
-       onmouseout="this.style.transform='scale(1)'" 
-       alt="GitHub logo"/>
+<a href="https://github.com/your-username">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7005E&center=true&vCenter=true&width=440&lines=🔥+Explore+My+GitHub;🚀+Building+The+Future+With+Code;💡+AI%2C+Web3%2C+DevOps+Enthusiast" alt="Typing SVG" />
 </a>
 
 
