@@ -68,20 +68,8 @@ Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-d
     <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" class="tech-badge" /></a>
   </div>
 
-  <!-- CSS for Dynamic Hover Effects -->
-  <style>
-    .tech-badge {
-      margin: 5px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .tech-badge:hover {
-      transform: scale(1.1) translateY(-5px);
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-    }
-  </style>
-</div>
-
 ---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
