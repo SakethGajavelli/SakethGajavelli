@@ -1,6 +1,6 @@
 <h1 align="center"><code> WELCOME TO MY GITHUB </code></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=500&color=E6E6FA&background=0A0A2310¢er=true&vCenter=true&width=480&lines=Crafting+Data+Excellence;I'm+Saketh,+Data+Architect;Unveiling+Insights+with+Precision;Explore+My+Visionary+Dashboards;Discover+My+Groundbreaking+Projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=500&color=E6E6FA&background=0A0A2310¢er=true&vCenter=true&width=480&lines=Crafting+Data+Excellence;I'm+Saketh,+Data+Architect;Unveiling+Insights+with+Precision;Explore+My+Visionary+Dashboards;Discover+My+Groundbreaking+Repositories" alt="Typing SVG" /></a>
 ### 🌟 Let’s Connect  
 
 <p align="center">
