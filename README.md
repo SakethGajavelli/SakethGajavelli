@@ -1,6 +1,4 @@
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://svgshare.com/i/11N6.svg" width="120" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/Visit-Terminal%20Hub-00ffcc?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d0d0d)](https://github.com/your-username)
 
 
 
