@@ -1,6 +1,6 @@
 <h1 align="center"><code> WELCOME TO MY GITHUB </code></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&width=435&lines=Hello+%F0%9F%91%8B;I'm+Saketh....;Turning+data+to+action+insights%F0%9F%93%8A;Checkout+my+Dashboards%F0%9F%93%8A+;and+check+out+my+Repositories" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=1000&color=FFFFFF&width=435&lines=Hello+%F0%9F%91%8B;I'm+Saketh....;Turning+data+to+action+insights%F0%9F%93%8A;Checkout+my+Dashboards%F0%9F%93%8A+;and+check+out+my+Repositories" alt="Typing SVG" /></a>
 ### 🌟 Let’s Connect  
 
 <p align="center">
