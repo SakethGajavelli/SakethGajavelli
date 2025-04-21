@@ -1,8 +1,10 @@
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=7f00ff)](https://github.com/your-username)
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://svgshare.com/i/11N6.svg" width="120" alt="GitHub" />
+</a>
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
 
 <h1 align="center"><code> WELCOME TO MY GITHUB 🌐 </code></h1>
 
