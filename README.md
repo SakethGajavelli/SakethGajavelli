@@ -1,5 +1,4 @@
-[![Glitch GitHub](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)](https://github.com/your-username)
-
+[![GitHub 3D](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)](https://github.com/your-username)
 
 
 
