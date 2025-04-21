@@ -1,6 +1,6 @@
 <div align="center">
 
-![WELCOME TO MY GITHUB](https://via.placeholder.com/480x100.gif)
+![WELCOME TO MY GITHUB](https://raw.githubusercontent.com/<username>/<repo>/main/images/welcome.gif)
 
 </div>
 
