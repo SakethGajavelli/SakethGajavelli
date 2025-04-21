@@ -1,4 +1,12 @@
-[![GitHub](https://img.shields.io/badge/Visit-Terminal%20Hub-00ffcc?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d0d0d)](https://github.com/your-username)
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" 
+       width="140" 
+       style="filter: drop-shadow(0px 0px 10px #ff0055); transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" 
+       alt="GitHub logo"/>
+</a>
+
 
 
 
