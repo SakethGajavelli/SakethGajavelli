@@ -1,4 +1,7 @@
-[![GitHub](https://img.shields.io/badge/Visit-Terminal%20Hub-00ffcc?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d0d0d)](https://github.com/your-username)
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&pause=1000&color=F7005E&vCenter=true&width=300&height=50&lines=🔥+Check+Out+My+GitHub!+🔥" alt="GitHub Link" />
+</a>
+
 
 
 
