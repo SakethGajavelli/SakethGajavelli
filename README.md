@@ -1,7 +1,4 @@
-<a href="https://github.com/your-username">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7005E&center=true&vCenter=true&width=440&lines=🔥+Explore+My+GitHub;🚀+Building+The+Future+With+Code;💡+AI%2C+Web3%2C+DevOps+Enthusiast" alt="Typing SVG" />
-</a>
-
+[![Glitch GitHub](https://media.giphy.com/media/Rl5EcI3WfY8sM/giphy.gif)](https://github.com/your-username)
 
 
 
