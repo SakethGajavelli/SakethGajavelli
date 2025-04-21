@@ -1,12 +1,6 @@
-[![GitHub 3D](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)](https://github.com/your-username)
-
-
-
 <a href="https://github.com/your-username" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="60" style="filter: drop-shadow(0 0 10px #ff0077);" />
 </a>
-
-
 
 
 <h1 align="center"><code> WELCOME TO MY GITHUB 🌐 </code></h1>
