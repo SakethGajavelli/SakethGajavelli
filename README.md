@@ -1,6 +1,4 @@
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&pause=1000&color=F7005E&vCenter=true&width=300&height=50&lines=🔥+Check+Out+My+GitHub!+🔥" alt="GitHub Link" />
-</a>
+[![GitHub](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)](https://github.com/your-username)
 
 
 
