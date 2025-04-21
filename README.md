@@ -1,5 +1,4 @@
-[![3D GitHub Space](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)](https://github.com/your-username)
-
+[![GitHub](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)](https://github.com/your-username)
 
 
 <a href="https://github.com/your-username" target="_blank">
