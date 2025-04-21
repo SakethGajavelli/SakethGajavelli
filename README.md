@@ -1,4 +1,4 @@
-[![3D GitHub Cube](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)](https://github.com/your-username)
+[![Neon GitHub](https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)](https://github.com/your-username)
 
 
 
