@@ -1,3 +1,5 @@
+## Connect with me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 <h1 align="center"><code> WELCOME TO MY GITHUB 🌐 </code></h1>
 
