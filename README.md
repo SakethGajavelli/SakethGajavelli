@@ -50,20 +50,34 @@ Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-d
 
 ## &#128736; Languages and Tools:
 
+<div style="text-align: center; padding: 20px;">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=500&color=E6E6FA&background=0A0A2310¢er=true&vCenter=true&width=480&lines=Mastering+Data+Science;I'm+Saketh,+Data+Scientist;Building+AI+with+Precision;View+My+Flutter+Apps;Explore+My+ML+Projects" alt="Typing SVG" /></a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  <!-- Badges with Hover Animation -->
+  <div style="margin-top: 20px;">
+    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" class="tech-badge" /></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" class="tech-badge" /></a>
+    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" class="tech-badge" /></a>
+    <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" class="tech-badge" /></a>
+    <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" class="tech-badge" /></a>
+    <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" class="tech-badge" /></a>
+    <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" class="tech-badge" /></a>
+    <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" class="tech-badge" /></a>
+  </div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+  <!-- CSS for Dynamic Hover Effects -->
+  <style>
+    .tech-badge {
+      margin: 5px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .tech-badge:hover {
+      transform: scale(1.1) translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</div>
 
 ---
 ## 📊 GitHub Stats  
