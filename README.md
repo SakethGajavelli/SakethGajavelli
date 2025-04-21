@@ -1,4 +1,5 @@
-[![GitHub](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://github.com/your-username)
+[![GitHub](https://media.giphy.com/media/UqZ3TfmE3bCXS/giphy.gif)](https://github.com/your-username)
+
 
 
 
