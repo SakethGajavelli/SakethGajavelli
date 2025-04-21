@@ -1,5 +1,4 @@
-[![GitHub](https://media.giphy.com/media/UqZ3TfmE3bCXS/giphy.gif)](https://github.com/your-username)
-
+[![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white&labelColor=ff0066)](https://github.com/your-username)
 
 
 
