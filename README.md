@@ -51,14 +51,16 @@ Passionate Data Science professional skilled in ML, NLP, and DL, focused on AI-d
 ## &#128736; Languages and Tools:
 
 <div style="text-align: center; padding: 20px;">
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=500&color=E6E6FA&background=0A0A2310¢er=true&vCenter=true&width=480&lines=Mastering+Data+Science;I'm+Saketh,+Data+Scientist;Building+AI+with+Precision;View+My+Flutter+Apps;Explore+My+ML+Projects" alt="Typing SVG" /></a>
-
   <!-- Badges with Hover Animation -->
   <div style="margin-top: 20px;">
     <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" class="tech-badge" /></a>
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" class="tech-badge" /></a>
     <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" class="tech-badge" /></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" class="tech-badge" /></a>
+    <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" class="tech-badge" /></a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" class="tech-badge" /></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" class="tech-badge" /></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" class="tech-badge" /></a>
     <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" class="tech-badge" /></a>
     <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" class="tech-badge" /></a>
     <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" class="tech-badge" /></a>
