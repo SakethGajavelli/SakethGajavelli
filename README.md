@@ -1,7 +1,4 @@
-<a href="https://github.com/your-username">
-  <img src="https://api.iconify.design/logos:github-icon.svg" width="60" style="filter: drop-shadow(0 0 10px #ff00cc);" />
-</a>
-
+[![3D GitHub Cube](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)](https://github.com/your-username)
 
 
 
