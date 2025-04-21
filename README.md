@@ -1,3 +1,9 @@
+<div align="center">
+
+# 🚀 WELCOME TO MY GITHUB 🚀
+
+</div>
+
 <h1 align="center"><code> WELCOME TO MY GITHUB </code></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=500&color=E6E6FA&background=0A0A2310¢er=true&vCenter=true&width=480&lines=Mastering+Data+Art;I'm+Saketh,+Data+Expert;Insights+with+Precision;View+My+Dashboards;Explore+My+Projects" alt="Typing SVG" /></a>
