@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🚀 WELCOME TO MY GITHUB 🚀
+~~~~~~
+# ✨ WELCOME TO MY GITHUB 🌐
+~~~~~~
 
 </div>
 
