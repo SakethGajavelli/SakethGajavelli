@@ -1,6 +1,4 @@
-[![GitHub](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)](https://github.com/your-username)
-
-
+[![GitHub](https://img.shields.io/badge/Visit-Terminal%20Hub-00ffcc?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d0d0d)](https://github.com/your-username)
 
 
 
